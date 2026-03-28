@@ -27,7 +27,7 @@ export default function Index() {
         href="/(auth)/sign-up"
         className="mt-4 rounded bg-primary text-white p-4"
       >
-        Got to Sign up
+        Go to Sign up
       </Link>
       <Link href="/(tabs)/subscriptions/spotify">Spotify subscription</Link>
     </SafeAreaView>
